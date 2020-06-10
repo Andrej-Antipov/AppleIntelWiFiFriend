@@ -3,4 +3,4 @@
 
 # ItlvmHelper
 
-![Theme customizable GUI](https://github.com/Andrej-Antipov/EasyEFI/blob/master/screens/Снимок%20экрана%202020-05-11%20в%2022.45.55.png)
+![Theme customizable GUI](https://github.com/Andrej-Antipov/AppleIntelWiFiFriend/blob/master/screens/2.png)
